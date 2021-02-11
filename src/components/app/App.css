@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+
+.app {
+  height: 100vh;
+  background-color: #fafafa;
+}
+
+
+.app__headerImage {
+  background-color: #fff;
+  object-fit: contain;
+  padding: 20px;
+}
+
+.app__header {
+  background-color: #fff;
+}
